@@ -48,6 +48,12 @@
 		margin : 25px 15px 25px 0px;
 	}
 
+	h3 {
+		padding-top: 10px;
+		padding-bottom: 50px;
+		margin: 0;
+	}
+
 </style>
 </head>
 <body>
@@ -89,17 +95,17 @@
 			<div class="row container">
 				<div class="col-sm-4">
 					<img style="height: 150px" class="img-responsive" src="law.png">
-					<br><br><br>
+					
 					<h3>Konsultasi Hukum</h3>
 				</div>
 				<div class="col-sm-4">
 					<img style="height: 150px" class="img-responsive" src="book.png">
-					<br><br><br>
+					
 					<h3>Dokumentasi Hukum</h3>
 				</div>
 				<div class="col-sm-4">
 					<img style="height: 150px" class="img-responsive" src="training.png">
-					<br><br><br>
+					
 					<h3>Training Center</h3>
 				</div>
 			</div>
