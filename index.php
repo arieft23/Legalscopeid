@@ -34,24 +34,35 @@
 		padding-bottom:50px;
 	}
 
+	.navbar-brand{
+		height: 80px;
+	}
+
+	.nav li a{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.navbar-toggle{
+		padding: 10px;
+		margin : 25px 15px 25px 0px;
+	}
+
 </style>
 </head>
 <body>
-	<nav class="navbar navbar-inverse navbar-fixed-top">
+	<nav class="navbar navbar-default navbar-fixed-top navbar-expand-lg">
 		<div class="container">
 			<div class="navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+				<button style="padding: auto" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a href="index.php" class="navbar-brand">LegalScope</a>
+				<a href="#home" class="navbar-brand"><img src="icon.png"></a>
 			</div>
 			<div class="collapse navbar-collapse" id="navbar-collapse">
-				<ul class="nav navbar-nav">
-					<li class="nav-item">
-						<a class="nav-link" href="#home">Home</a>
-					</li>
+				<ul class="nav navbar-nav navbar-right">
 					<li class="nav-item">
 						<a class="nav-link" href="#service">Services</a>
 					</li>
@@ -68,7 +79,7 @@
 	<div style="padding: 25px" class="jumbotron" id="home">
 		<div class="image"></div>
 		<div class="container text-center">
-			<h1 style="padding: 50px">LegalScope</h1>
+			<h1 style="padding-top: 100px; padding-bottom: 30px">LEGALSCOPE</h1>
 			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet cursus sem. Sed sagittis lacus sit amet erat tincidunt egestas. In elementum velit lacus, eu consequat justo vulputate dignissim. Vestibulum finibus dui ac accumsan blandit. Pellentesque varius augue at sapien lobortis mattis. Donec maximus vitae dolor ultrices condimentum. Nunc eget arcu vel leo ornare sagittis. Suspendisse at tincidunt nibh. Curabitur consequat lacus rutrum nisi rhoncus iaculis. Donec vulputate nisi eget felis viverra, semper suscipit sapien consequat. Praesent ullamcorper maximus porttitor. Donec nec semper leo, non fermentum ligula.</p>
 		</div>
 	</div>
@@ -77,17 +88,17 @@
 		<center>
 			<div class="row container">
 				<div class="col-sm-4">
-					<img style="height: 150px" class="img-responsive" src="https://cdn.pixabay.com/photo/2013/07/13/11/32/law-158356_960_720.png">
+					<img style="height: 150px" class="img-responsive" src="law.png">
 					<br><br><br>
 					<h3>Konsultasi Hukum</h3>
 				</div>
 				<div class="col-sm-4">
-					<img style="height: 150px" class="img-responsive" src="https://lh5.googleusercontent.com/dNZqdtnTXqc9Rg9L7hWz0gOoNZSdTQGpMMb_DoGAzB98raModrxw29ufjAy7M3Th_ro5kBx88OD6YuZYsVu1X6w6lBtT4Pq49iZ9K2ESTz1SsAKLgpkMN28N4E6iivIC0A=s800">
+					<img style="height: 150px" class="img-responsive" src="book.png">
 					<br><br><br>
 					<h3>Dokumentasi Hukum</h3>
 				</div>
 				<div class="col-sm-4">
-					<img style="height: 150px" class="img-responsive" src="http://cdn.mysitemyway.com/icons-watermarks/simple-black/ocha/ocha_activity-training/ocha_activity-training_simple-black_512x512.png">
+					<img style="height: 150px" class="img-responsive" src="training.png">
 					<br><br><br>
 					<h3>Training Center</h3>
 				</div>
@@ -105,7 +116,7 @@
 	</div>
 	<div style="padding: 25px" id="contact">
 		<center><h1 style="padding: 50px"><kbd>Our Contact</kbd></h1></center>
-		<div class="row">
+		<div style="padding: 50px" class="row container-fluid">
 			<div class="col-sm-6">
 				<h3>Our Location</h3>
 				<div id="googleMap" style="height:400px;width:100%;"></div>
