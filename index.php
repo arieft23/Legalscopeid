@@ -86,7 +86,7 @@
 		<div class="image"></div>
 		<div class="container text-center">
 			<h1 style="padding-top: 100px; padding-bottom: 30px">LEGALSCOPE</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet cursus sem. Sed sagittis lacus sit amet erat tincidunt egestas. In elementum velit lacus, eu consequat justo vulputate dignissim. Vestibulum finibus dui ac accumsan blandit. Pellentesque varius augue at sapien lobortis mattis. Donec maximus vitae dolor ultrices condimentum. Nunc eget arcu vel leo ornare sagittis. Suspendisse at tincidunt nibh. Curabitur consequat lacus rutrum nisi rhoncus iaculis. Donec vulputate nisi eget felis viverra, semper suscipit sapien consequat. Praesent ullamcorper maximus porttitor. Donec nec semper leo, non fermentum ligula.</p>
+			<p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet cursus sem. Sed sagittis lacus sit amet erat tincidunt egestas. In elementum velit lacus, eu consequat justo vulputate dignissim. Vestibulum finibus dui ac accumsan blandit. Pellentesque varius augue at sapien lobortis mattis. Donec maximus vitae dolor ultrices condimentum. Nunc eget arcu vel leo ornare sagittis. Suspendisse at tincidunt nibh. Curabitur consequat lacus rutrum nisi rhoncus iaculis. Donec vulputate nisi eget felis viverra, semper suscipit sapien consequat. Praesent ullamcorper maximus porttitor. Donec nec semper leo, non fermentum ligula.</p>
 		</div>
 	</div>
 	<div style="padding: 25px" id="service">
