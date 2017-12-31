@@ -115,7 +115,7 @@
 		<center><h1 style="padding: 50px"><kbd>About Us</kbd></h1></center>
 		<div class="container">
 			<blockquote>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet cursus sem. Sed sagittis lacus sit amet erat tincidunt egestas. In elementum velit lacus, eu consequat justo vulputate dignissim. Vestibulum finibus dui ac accumsan blandit. Pellentesque varius augue at sapien lobortis mattis. Donec maximus vitae dolor ultrices condimentum. Nunc eget arcu vel leo ornare sagittis. Suspendisse at tincidunt nibh. Curabitur consequat lacus rutrum nisi rhoncus iaculis. Donec vulputate nisi eget felis viverra, semper suscipit sapien consequat. Praesent ullamcorper maximus porttitor. Donec nec semper leo, non fermentum ligula.</p>
+				<p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet cursus sem. Sed sagittis lacus sit amet erat tincidunt egestas. In elementum velit lacus, eu consequat justo vulputate dignissim. Vestibulum finibus dui ac accumsan blandit. Pellentesque varius augue at sapien lobortis mattis. Donec maximus vitae dolor ultrices condimentum. Nunc eget arcu vel leo ornare sagittis. Suspendisse at tincidunt nibh. Curabitur consequat lacus rutrum nisi rhoncus iaculis. Donec vulputate nisi eget felis viverra, semper suscipit sapien consequat. Praesent ullamcorper maximus porttitor. Donec nec semper leo, non fermentum ligula.</p>
 				<footer>from lorem ipsum</footer>
 			</blockquote>
 		</div>
