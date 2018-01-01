@@ -53,6 +53,11 @@
 		padding-bottom: 50px;
 		margin: 0;
 	}
+	.navbar{
+		-webkit-box-shadow: 5px 5px 30px gray;
+		-moz-box-shadow:  5px 5px 30px gray;
+		box-shadow: 5px 5px 30px gray;
+	}
 
 </style>
 </head>
@@ -67,7 +72,7 @@
 				</button>
 				<a href="#home" class="navbar-brand"><img src="icon.png"></a>
 			</div>
-			<div class="collapse navbar-collapse" data-toggle="collapse" data-target="#navbar-collapse" id="navbar-collapse">
+			<div class="collapse navbar-collapse" id="navbar-collapse">
 				<ul class="nav navbar-nav navbar-right">
 					<li class="nav-item">
 						<a class="nav-link" href="#service">Services</a>
